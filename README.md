@@ -1,9 +1,76 @@
+# Mastering Data Structures and Algorithms (DSA)
+
+## Introduction
+This repository serves as a personal guide to mastering Data Structures and Algorithms (DSA), inspired by the approach shared by Ashish Pratap Singh in his YouTube video "How I Mastered Data Structures and Algorithms." The goal is to systematically learn and practice DSA to improve coding skills and prepare for technical interviews or competitive programming.
+
+## Approach to Learning DSA
+The learning process is divided into three main categories:
+- **Data Structures**
+- **Algorithms**
+- **Problem-Solving Techniques**
+
+### Step-by-Step Plan
+1. **Understand the Fundamentals**
+   - Study each topic thoroughly with theoretical knowledge and practical implementation.
+   - Practice coding problems related to each concept.
+
+2. **Practice Consistently**
+   - Solve problems daily to build problem-solving skills.
+   - Use online platforms like LeetCode, HackerRank, or Codeforces.
+
+3. **Review and Refine**
+   - Analyze solutions and optimize your code.
+   - Revisit weak areas regularly.
+
+4. **Apply to Real-World Problems**
+   - Work on projects or coding challenges that integrate multiple DSA concepts.
+
+## Categories and Topics
+
+### Data Structures
+- **Linear**
+  - Arrays
+  - Linked List
+  - Stacks
+  - Queues
+  - Hash Tables
+
+- **Non-Linear**
+  - Trees
+    - Binary Trees
+    - Binary Search Trees
+    - Heaps
+  - Graphs
+  - Trie
+  - Union-Find
+
+### Algorithms
+- **Sorting**
+- **Binary Search**
+- **Tree Manipulation**
+  - In-Order
+  - Pre-Order
+  - Post-Order
+  - Level-Order
+- **DFS/BFS**
+- **Topological Sort**
+- **Dijkstra**
+- **Bellman-Ford**
+
+### Problem-Solving Techniques
+- **Two Pointers**
+- **Sliding Window**
+- **Prefix Sum**
+- **Fast and Slow Pointers**
+- **Divide and Conquer**
+- **Greedy**
+- **Recursion**
+- **Backtracking**
+- **Dynamic Programming**
+- **Top 'K' Elements**
+
+
 # 🧠 14 Essential DSA Patterns for Coding Interviews
-
-This repository contains explanations and example problems for 14 core Data Structures and Algorithms (DSA) patterns commonly asked in technical interviews.
-
----
-
 ## 📚 Patterns Overview
 
 ### 1. Sliding Window
